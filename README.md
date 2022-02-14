@@ -7,10 +7,3 @@ Contact.html bitti.php ile bağlantılıdır contact.html de forum dolduktan son
 # Web Sitem: https://b3zkurt.wordpress.com/
 # Youtube: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
 --------------------------------------------------------------------------
-
---------------------------------------------------------------------------
-Merhaba 👋
-2014 Yılından Beri Sosyal Medyadayım, 2018 Yılında Siber Güvenlik/ Yazılım / Web. Alanına Geçiş Yaptım.
-Siber Güvenlikte 18 Sertifikam var.
-Siber Güvenlik Uzmanı ve ben Sosyal Medya Uzmanıyım.
---------------------------------------------------------------------------
